@@ -1,3 +1,7 @@
+/**
+* @author Dylan Duhamel {@literal duhadm19@wfu.edu}
+**/
+
 #include <stdio.h>
 #include <time.h>
 #include <termios.h>
